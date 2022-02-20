@@ -1,6 +1,6 @@
 ### Hi there 👋,
 
-I am Pierre **Dal Bianco**, I'm currently studying Big Data.
+I am **Pierre Dal Bianco**, I'm currently studying Big Data.
 
 As you can see through by older repos, I've always had a sharp interest in coding and computer science in general. With my degrees in Big Data, I want to put my coding skills to good use and apply them to data science. Check out my portfolio !
 
