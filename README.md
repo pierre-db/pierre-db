@@ -2,7 +2,7 @@
 
 I am Pierre **Dal Bianco**, I'm currently studying Big Data.
 
-As you can see though by older repos, I've always been pationate about coding. With my degrees in Big Data, I want to put my coding skill to good use and apply them to data science. Check out my portfolio !
+As you can see through by older repos, I've always been pationate about coding. With my degrees in Big Data, I want to put my coding skill to good use and apply them to data science. Check out my portfolio !
 
 <!--
 **pierre-db/pierre-db** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
