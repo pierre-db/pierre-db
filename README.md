@@ -2,7 +2,7 @@
 
 ## Data Scientist | Full-Stack Developer | GIS Analyst
 
-With **6+ years of experience in data analysis** in international contexts, including **3+ years working with geospatial data**. I've developed data-driven solutions for complex global challenges, from climate vulnerability mapping to humanitarian early warning systems.
+With **9+ years of experience in data analysis** in international contexts, including **3+ years working with geospatial data**. I've developed data-driven solutions for complex global challenges, from climate vulnerability mapping to humanitarian early warning systems.
 
 - 🔭 I'm currently working on **advanced GIS analytics projects** and **scalable data pipelines**
 - 💬 Ask me about **GIS analysis**, **remote sensing**, **machine learning for geospatial data**, or **international development projects**
